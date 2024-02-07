@@ -1,0 +1,45 @@
+.logo{
+    color: red;
+    font-family: sans-serif
+}
+
+.menu li{
+    display: inline;
+    padding: 16px;
+}
+
+.menu li a{
+    text-decoration: none;
+    color: black;
+    font: 20px;
+}
+
+.menu li a:hover{
+    font-size: 30px;
+    color:red;
+}
+
+.img-java{
+    width: 60px;
+    height: 30px;
+}
+
+.img-spring{
+    width: 30px;
+    height: 15px;
+}
+
+.img-javascript{
+    width:40px;
+    height: 20px;
+}
+
+.voltar-home-sobre{
+    color: red;
+    text-decoration: none;
+}
+
+.voltar-home-contato{
+    color: red;
+    text-decoration: none;
+}
